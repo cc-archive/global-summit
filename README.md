@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Jessica Coates](https://github.com/??)  |
-| Approvers  | ADD |
-| Contributors | Add yourselves here |
+| Accountable  | ADD |
+| Consulted | Add yourselves here |
 | Informed | [Cable Green](https://github.com/cablegreen) |
