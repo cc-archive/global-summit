@@ -8,4 +8,4 @@ add description here
 | Driver  | [Jessica Coates](https://github.com/jessicacoates)  |
 | Accountable  | [Ryan Merkley](https://github.com/ryanmerkley) |
 | Consulted | Add yourselves here |
-| Informed | [Cable Green](https://github.com/cablegreen), [Sarah Pearson](https://github.com/sarahpearson) |
+| Informed | [Diane Peters] (https://github.com/peterspdx), [Cable Green](https://github.com/cablegreen), [Sarah Pearson](https://github.com/sarahpearson) |
