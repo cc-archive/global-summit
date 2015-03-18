@@ -5,7 +5,7 @@ add description here
 
 | Role  | Person |
 | ------------- | ------------- |
-| Driver  | [Jessica Coates](https://github.com/??)  |
-| Accountable  | ADD |
+| Driver  | [Jessica Coates](https://github.com/jessicacoates)  |
+| Accountable  | [Ryan Merkley](https://github.com/ryanmerkley) |
 | Consulted | Add yourselves here |
-| Informed | [Cable Green](https://github.com/cablegreen) |
+| Informed | [Cable Green](https://github.com/cablegreen) [Sarah Pearson](https://github.com/sarahpearson) |
