@@ -7,5 +7,5 @@ add description here
 | ------------- | ------------- |
 | Driver  | [Jessica Coates](https://github.com/jessicacoates)  |
 | Accountable  | [Ryan Merkley](https://github.com/ryanmerkley) |
-| Consulted | [Mari Moreshead](https://github.com/mmoreshead) | [Scott Seethaler](https://github.com/Scott-CC) | 
+| Consulted | [Mari Moreshead](https://github.com/mmoreshead), [Scott Seethaler](https://github.com/Scott-CC) | 
 | Informed | [Diane Peters](https://github.com/peterspdx), [Cable Green](https://github.com/cablegreen), [Sarah Pearson](https://github.com/sarahpearson) |
