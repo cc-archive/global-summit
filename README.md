@@ -1,5 +1,5 @@
 # global-summit-
-add description here
+The planning and execution of CC's Global Summit 2015
 
 ## Who's working on it at Creative Commons?
 
