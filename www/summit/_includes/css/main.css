@@ -189,15 +189,31 @@ section.success {
         padding: 25px 0;
     }
 
+    
+
     section.first {
         padding-top: 75px;
     }
 
-    .footer-above, nav {display: none;}
+    .btn-success {display: block; width: 100%;}
+
+    #form-name, .footer-above, nav {display: none;}
 
     header .container {padding: 25px;}
 
+    header .intro-text .name {
+	font-size: 24px;
+    }
 
+    header .intro-text .skills, header .intro-text .skills small {
+	font-size: 14px;
+    }
+
+    .col-lg-12 h2 {font-size: 24px;}
+
+    input {font-size: 24px !important;}
+
+    .form-control {padding: 5px;}
 
     header .col-lg-12 img {
 	max-width: 100px;
