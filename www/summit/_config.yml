@@ -23,7 +23,7 @@ social:
   - title: facebook
     url: http://facebook.com/creativecommons
   - title: github
-    url: http://github.com/creativecommons
+    url: http://github.com/creativecommons/global-summit-
 
 # Postal address (add as many lines as necessary)
 address:
@@ -31,7 +31,7 @@ address:
   - line: Republic of Korea
   
 # Credits content
-credits: 
+credits: Built by <a href="https://creativecommons.org">Creative Commons</a> in association with <a href="http://www.cckorea.org/xe/english">CC Korea</a>
 
 # Build settings
 markdown: kramdown
