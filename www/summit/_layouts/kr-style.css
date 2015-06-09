@@ -76,7 +76,7 @@ section p {
 }
 
 #logo-open {
-  background: url('/img/logo-bottom-bg.jpg') center bottom no-repeat;
+  background: rgb(103, 101, 222) url('/img/logo-bottom-bg.jpg') center bottom no-repeat;
   /*background-size: 50%;*/
   padding-bottom: 0;
 }
@@ -125,14 +125,15 @@ section p {
   padding: 1em 0;
   margin: 1em auto;
   background-color: #fff;
+  font-size: 90%;
 }
 
 .details li {
   list-style: none;
-  padding-left: 1.5em;
+  /*padding-left: 1.5em;
   font-size: 1.2em;
   background: url('/img/icon-check.png') center left no-repeat;
-  line-height: 200%;
+  line-height: 200%;*/
 }
 
 .title {
@@ -173,6 +174,54 @@ section strong {
   font-size: 1.2em;
   background: #339;
   margin: 2em;
+}
+
+.sub-section .details {
+  padding-right: 3em;
+}
+
+.sub-section strong {
+  display: inline-block;
+  width: 70px;
+  font-size: 1em;
+  margin: 0;
+  background: transparent;
+  color: rgb(103, 101, 222);
+}
+
+strong.cell {
+  float: left;
+  width: 75px;
+  height: 40px;
+}
+
+.details ul li > ul li{
+  list-style: disc inside;
+}
+
+.method,
+.prize {
+  margin-bottom: 20px;
+}
+
+.guide {
+  margin-bottom: 20px;
+}
+
+.method strong.cell {
+  height: 60px;
+}
+
+.prize strong.cell {
+  height: 60px;
+}
+
+.guide strong.cell {
+  height: 120px;
+}
+
+.conditions strong.cell {
+  height: 150px;
 }
 
 footer {
@@ -228,4 +277,9 @@ footer a {
 
 #misc {
   padding-bottom: 1em;
+}
+
+.block-apply {
+  width: 100%;
+  clear: both;
 }
