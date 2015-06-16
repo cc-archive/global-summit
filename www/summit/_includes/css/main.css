@@ -470,3 +470,5 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+figcaption {font-style: italic; text-align: center; margin: 1em;}
