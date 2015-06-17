@@ -472,3 +472,13 @@ footer .footer-below {
 }
 
 figcaption {font-style: italic; text-align: center; margin: 1em;}
+
+figure {display: block; clear: both;}
+
+figure h3 {background: lime;}
+
+figure.l h3, figure.l p {padding-left: 215px;}
+
+figure.r img {float: right; display: block; position: relative; top: -1em;}
+
+figure.l img {float: left; display: block; position: relative; top: -1em; padding-right: 1em;}

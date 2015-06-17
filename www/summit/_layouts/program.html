@@ -6,8 +6,23 @@
 
     <body id="page-top" class="index">
 
-    {% include header.html %}
-    {% include program.html %}
+      {% include header.html %}
+      <section id="about">
+	<div class="container">
+	  <div class="row">
+	    <div class="col-lg-12 text-center">
+              <h2>Program draft</h2>
+              <hr class="star-primary">
+	    </div>
+	  </div>
+
+	  <div class="row">
+	    <div class="col-lg-6 col-lg-offset-3">
+	      {% include program_include.html %}
+	    </div>
+	  </div>
+	</div>
+      </section>
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}

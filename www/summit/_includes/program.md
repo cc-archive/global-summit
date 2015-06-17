@@ -1,12 +1,10 @@
-<meta http-equiv="refresh" content="5">
 
 ### Day 0. Wednesday, October 14th -- welcoming day
 
-* Sub-theme -- N/A
 * Type -- Mini-conferences/networking/party
-* Where? -- TBD, Korea House
-* Who? -- CC network
-* Interpretation available?	-- No
+* Where -- TBD, Korea House
+* Who -- CC network
+* Interpretation available	-- No
 
 #### Lunch -- CC Cookoff
 
@@ -28,14 +26,15 @@
 
 ---
 
+## Celebration of Sharing
+
 ### Day 1. Thursday, October 15th -- public conference
 
-* Sub-theme -- Celebration of Sharing
 * About -- Public facing event celebrating and highlighting the value of CC
 * Type -- public/formal/conference
-* Where? -- National Museum of Korea, Korea House
-* Who? -- Korean public, CC network, communities
-* Interpretation available?	-- Yes
+* Where -- National Museum of Korea, Korea House
+* Who -- Korean public, CC network, communities
+* Interpretation available	-- Yes
 
 #### Breakfast 
 
@@ -77,14 +76,15 @@
 
 ---
 
+## The Work of Sharing
+
 ### Day 2. Friday, October 16th -- Collaboration (Playground for all)
 
-* Sub-theme -- The Work of Sharing
 * About -- Working groups collaborate on solving the issues of today
 * Type -- workshops/unconference/collaboration/interactive
-* Where? -- National Museum of Korea
-* Who? -- CC network, communities
-* Interpretation available?	-- Only for main auditorium
+* Where -- National Museum of Korea
+* Who -- CC network, communities
+* Interpretation available	-- Only for main auditorium
 
 #### Breakfast
 
@@ -144,14 +144,15 @@
 
 ---
 
+## The Future of Sharing
+
 ### Day 3. Saturday, October 17th -- CC Strategy Meeting
 
-* Sub-theme -- The Future of Sharing
 * About -- series of meetings/programs/workshops around CC and activities of global CC community
 * Type -- internal/discussion/workshop/meeting
-* Where? -- National Museum of Korea
-* Who? -- CC network
-* Interpretation available?	-- No
+* Where -- National Museum of Korea
+* Who -- CC network
+* Interpretation available -- No
 
 #### Breakfast
 
