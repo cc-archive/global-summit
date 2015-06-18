@@ -1,8 +1,8 @@
 
-### Day 0. Wednesday, October 14th -- welcoming day
+### Day 0. Wednesday, October 14th -- Welcoming day
 
 * Type -- Mini-conferences/networking/party
-* Where -- TBD, Korea House
+* Where -- TBD
 * Who -- CC network
 * Interpretation available	-- No
 
@@ -20,26 +20,21 @@
 * Affiliate Network discussions
 * Other mini-conferences
 
-#### Dinner -- Welcome Reception + CC Arts Happening Concert
+#### Dinner -- Welcome Reception
 
-* Venue -- Korea House
+* Venue -- TBD
 
 ---
 
 ## Celebration of Sharing
 
-### Day 1. Thursday, October 15th -- public conference
+### Day 1. Thursday, October 15th -- Public conference
 
 * About -- Public facing event celebrating and highlighting the value of CC
 * Type -- public/formal/conference
-* Where -- National Museum of Korea, Korea House
+* Where -- National Museum of Korea
 * Who -- Korean public, CC network, communities
 * Interpretation available	-- Yes
-
-#### Breakfast 
-
-* Venue -- National Museum
-* Coffee bar at the venue
 
 #### Morning
 
@@ -52,9 +47,9 @@
 * Keynote 2 -- TBA
 * Keynote 3 -- TBA
 
-#### Lunch -- museum restaurant/foodcourt
+#### Lunch
 
-* Venue -- National Museum
+* Venue -- National Museum restaurant/foodcourt
 
 #### Afternoon
 
@@ -64,7 +59,7 @@
 
 * Speeches/discussions around sharing/free culture by topic (OER, open data, open access, net neutrality, platform, open GLAM etc.)
 * Sessions co-organized by local, CC, and communities
-* Closing keynote -- Cho PD (Korean musician who released his song under a CC license)
+* Closing keynote
 
 ##### Small auditorium
 
@@ -72,7 +67,7 @@
 
 #### Dinner -- Affliate Dinner
 
-* Venue -- Korea House
+* Venue -- TBD
 
 ---
 
@@ -85,11 +80,6 @@
 * Where -- National Museum of Korea
 * Who -- CC network, communities
 * Interpretation available	-- Only for main auditorium
-
-#### Breakfast
-
-* Coffee bar at the venue
-* Venue -- National Museum
 
 #### Morning
 
@@ -112,7 +102,7 @@
 * CC language specific meetings
 * CC legal
 
-#### Lunch -- Catered
+#### Lunch
 
 * Venue -- National Museum
 
@@ -154,11 +144,6 @@
 * Who -- CC network
 * Interpretation available -- No
 
-#### Breakfast
-
-* Coffee bar at the venue
-* Venue -- National Museum
-
 #### Morning
 
 * Venue -- National Museum
@@ -171,7 +156,7 @@
 * The role/future of the affiliate network
 * Q&A with Ryan and the Board
 
-#### Lunch -- Catered
+#### Lunch
 
 * Venue -- National Museum
 
