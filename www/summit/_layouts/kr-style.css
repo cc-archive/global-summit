@@ -283,3 +283,7 @@ footer a {
   width: 100%;
   clear: both;
 }
+
+.sub-section em {
+  background: yellow;
+}
