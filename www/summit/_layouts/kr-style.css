@@ -282,8 +282,31 @@ footer a {
 .block-apply {
   width: 100%;
   clear: both;
+  padding-top: 2em;
 }
 
-.sub-section em {
+.sub-section em,
+#logo-open em {
   background: yellow;
+}
+
+#logo-heading-en {
+  max-width: 480px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+  padding: 20px;
+  margin-top: -65px;
+  color: rgb(103, 101, 222);
+  font-size: 28px;
+}
+
+.notice .prize {
+  text-align: center;
+  display: block;
+  padding: 1em 0;
+}
+
+.notice .prize li {
+  list-style: none;
 }
