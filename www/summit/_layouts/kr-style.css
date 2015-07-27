@@ -310,3 +310,13 @@ footer a {
 .notice .prize li {
   list-style: none;
 }
+
+
+#finalist {
+  border: 1px solid #fff;
+  margin: 1em 0;
+}
+
+.notice .desc {
+  padding: 1.5em 3em;
+}
