@@ -1,7 +1,7 @@
 # Site settings
 title: Global Summit 2015
 email: summit@creativecommons.org
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "CC's Global Summit brings together our global community of technologists, legal experts, academics, and activists who support free culture and open knowledge shared worldwide. Taking place every two years around the world, the summit provides CC and the broader open web community an opportunity to gather, share ideas, and advance our efforts. We are proud to host CC's 2015 Global Summit in Seoul — hope you'll join us!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

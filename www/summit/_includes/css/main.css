@@ -475,9 +475,9 @@ figcaption {font-style: italic; text-align: center; margin: 1em;}
 
 figure {display: block; clear: both;}
 
-figure h3 {background: lime;}
+figure.l p {padding-left: 215px;}
 
-figure.l h3, figure.l p {padding-left: 215px;}
+figure.l h3 { padding-left: 255px; }
 
 figure.r img {float: right; display: block; position: relative; top: -1em;}
 
