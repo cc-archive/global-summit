@@ -1,2 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+.vertical-align {
+    height: 100px;
+  line-height: 100px;
+  white-space: nowrap;
+}
